@@ -21,6 +21,6 @@ brew w3m
 brew z
 
 # App Store applications
+appstore DrCleanerPro
 appstore Evernote
-appstore OneDrive
 appstore Xcode
